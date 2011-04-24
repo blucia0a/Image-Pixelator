@@ -1,0 +1,4 @@
+Image Pixelator
+Brandon Lucia 2011
+
+This is a simple program that uses OpenCV to "blockify" an image.  The idea is that a specified number of regions of the image are averaged, and a new image outputted, composed of the averaged regions computed.
